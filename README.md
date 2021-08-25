@@ -26,6 +26,7 @@ Self-taught Entrepreneur & Freelance Full-stack Developer.
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/ionic/ionic-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jest/jest-plain.svg"></code>
