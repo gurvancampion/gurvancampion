@@ -15,7 +15,7 @@ Freelance, Full-Stack-Developer and an entrepreneur passionate about web develop
 
 ### Statistics
 
-[![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api?username=gurvan-guss&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api/top-langs/?username=gurvan-guss&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api?username=gurvan-guss&count_private=true&show_icons=true&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
+[![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api/top-langs/?username=gurvan-guss&layout=compact&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gurvan-guss)
