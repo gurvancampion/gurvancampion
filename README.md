@@ -3,7 +3,7 @@
 Freelance, Full-Stack-Developer and an entrepreneur passionate about web development and new technology. I am also an old avid gamer and follow the eSports industry closely.
 
 - ✨ Working on multiple frontend & backend projects using Vue.js and Node.js.
-- 🌱 I'm currently digging into the world of web3.
+- 🌱 I'm currently digging into the world of AI, ML and web3.
 - 💬 Feel free to reach out to discuss about your project, cheers! 🍻
 
 ### Connect with me
