@@ -1,10 +1,8 @@
 ## Hey, I'm Gurvan 👋
 
-Freelance, Full-Stack-Developer, and an entrepreneur passionate about web development and new technology.
+Freelance, Full-Stack-Developer, and solopreneur passionate about web development and cutting-edge technologies, particularly the latest advancements in AI models, such as generative AI and large language models.
 
-- ✨ Working on multiple frontend & backend projects using Vue.js and Node.js.
-- 🌱 I'm currently digging into the world of AI/ML and web3.
-- 💬 Feel free to reach out to discuss about your project, cheers! 🍻
+💬 Feel free to reach out to discuss about your project, cheers! 🍻
 
 ### Connect with me
 
@@ -18,4 +16,4 @@ Freelance, Full-Stack-Developer, and an entrepreneur passionate about web develo
 [![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api?username=gurvancampion&count_private=true&show_icons=true&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
 [![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api/top-langs/?username=gurvancampion&layout=compact&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gurvan-guss)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gurvancampion)
