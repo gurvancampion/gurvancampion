@@ -16,4 +16,4 @@ Freelance, Full-Stack-Developer, and solopreneur passionate about web developmen
 [![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api?username=gurvancampion&count_private=true&show_icons=true&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
 [![Gurvan's github stats](https://github-readme-stats-gurvan-guss.vercel.app/api/top-langs/?username=gurvancampion&layout=compact&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gurvancampion)
+![](https://komarev.com/ghpvc/?username=gurvancampion)
